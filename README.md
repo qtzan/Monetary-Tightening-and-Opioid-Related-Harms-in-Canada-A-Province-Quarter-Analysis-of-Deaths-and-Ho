@@ -11,4 +11,4 @@ This project is currently a work in progress and is done under Youreka Canada.
 - Investigator: Alex Zhu
 - Investigator: Mohammad Fatemi Tabar
 
-PROJECT DEADLINE APRIL 1st
+PROJECT DEADLINE APRIL 1
